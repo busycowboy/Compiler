@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5: for Floccus bookmark sync browser extension -->
+<!--- highestId :76: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Mozilla Firefox</title>
@@ -18,4 +18,217 @@
     <title>About Us</title>
   </bookmark>
 </folder>
+<folder id="6">
+  <title>WOA</title>
+  <bookmark href="https://github.com/Fndroid/clash_for_windows_pkg/releases" id="11">
+    <title>Releases · Fndroid/clash_for_windows_pkg</title>
+  </bookmark>
+  <bookmark href="https://github.com/ywmoyue/biliuwp-lite/releases" id="12">
+    <title>Releases · ywmoyue/biliuwp-lite</title>
+  </bookmark>
+  <bookmark href="https://www.jetbrains.com/zh-cn/idea/download/?section=windows" id="13">
+    <title>下载 IntelliJ IDEA – 领先的 Java 和 Kotlin IDE</title>
+  </bookmark>
+  <bookmark href="https://www.jetbrains.com/zh-cn/clion/download/#section=windows" id="14">
+    <title>下载 CLion：用于 C/C++ 开发的智能跨平台 IDE</title>
+  </bookmark>
+  <bookmark href="https://sparanoid.com/lab/7z/" id="15">
+    <title>7-Zip 官方中文网站</title>
+  </bookmark>
+  <bookmark href="https://www.voidtools.com/zh-cn/downloads/" id="16">
+    <title>下载 - voidtools</title>
+  </bookmark>
+  <bookmark href="https://www.python.org/downloads/windows/" id="17">
+    <title>Python Releases for Windows | Python.org</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/zh-cn/java/openjdk/download" id="18">
+    <title>下载 Microsoft Build of OpenJDK | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://www.bandisoft.com/bandizip/dl/" id="19">
+    <title>Bandizip - 下载 Bandizip 安装包</title>
+  </bookmark>
+  <bookmark href="https://support.microsoft.com/zh-cn/office/%E5%9C%A8-64-%E4%BD%8D-32-%E4%BD%8D%E5%92%8C-arm-%E7%89%88%E6%9C%AC%E7%9A%84-onedrive-%E4%B9%8B%E9%97%B4%E8%BF%9B%E8%A1%8C%E9%80%89%E6%8B%A9-9d36d262-4fc2-4019-a8f6-314ef41a29d1" id="20">
+    <title>在 64 位、32 位和 ARM 版本的 OneDrive 之间进行选择 - Microsoft 支持</title>
+  </bookmark>
+  <bookmark href="https://www.jetbrains.com/zh-cn/webstorm/download/#section=windows" id="21">
+    <title>下载WebStorm：JetBrains出品的最智能JavaScript IDE</title>
+  </bookmark>
+  <bookmark href="https://www.videolan.org/vlc/download-windows.html" id="22">
+    <title>Download official VLC media player for Windows - VideoLAN</title>
+  </bookmark>
+  <bookmark href="https://zhuanlan.zhihu.com/p/576532127" id="23">
+    <title>Windows on ARM 原生软件集录(WIP) - 知乎</title>
+  </bookmark>
+  <bookmark href="https://code.visualstudio.com/#" id="24">
+    <title>Visual Studio Code - Code Editing. Redefined</title>
+  </bookmark>
+  <bookmark href="https://visualstudio.microsoft.com/zh-hans/downloads/" id="25">
+    <title>下载 Visual Studio Tools - 免费安装 Windows、Mac、Linux</title>
+  </bookmark>
+  <bookmark href="https://sourceforge.net/projects/mingw-gcc-arm-eabi/" id="26">
+    <title>MinGW GCC For ARM download | SourceForge.net</title>
+  </bookmark>
+  <bookmark href="https://tranaptic.ca/gcc-downloads" id="27">
+    <title>Tranaptic Solutions | GCC Downloads</title>
+  </bookmark>
+  <bookmark href="https://obsidian.md/download" id="28">
+    <title>Download - Obsidian</title>
+  </bookmark>
+  <bookmark href="https://store.rg-adguard.net/" id="29">
+    <title>Microsoft Store - Generation Project (v1.2.3) [by @rgadguard &amp; mkuba50]</title>
+  </bookmark>
+  <bookmark href="https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases" id="30">
+    <title>Releases · Icalingua-plus-plus/Icalingua-plus-plus · GitHub</title>
+  </bookmark>
+  <bookmark href="https://armrepo.ver.lt/" id="31">
+    <title>Windows ARM software | ‎Home</title>
+  </bookmark>
+  <bookmark href="https://github.com/c0re100/qBittorrent-Enhanced-Edition" id="32">
+    <title>GitHub - c0re100/qBittorrent-Enhanced-Edition: [Unofficial] qBittorrent Enhanced, based on qBittorrent</title>
+  </bookmark>
+  <bookmark href="https://www.yuque.com/funnybim/wtjj/rog0rfqtskzphfnx?singleDoc#Zc4uN" id="33">
+    <title>Windows11 arm软件合集整理2024.06</title>
+  </bookmark>
+</folder>
+<folder id="7">
+  <title>电脑</title>
+  <bookmark href="https://greasyfork.org/zh-CN" id="34">
+    <title>Greasy Fork - 安全、实用的用户脚本大全</title>
+  </bookmark>
+  <bookmark href="https://mojie.pw/#/login" id="35">
+    <title>魔戒.com</title>
+  </bookmark>
+  <bookmark href="http://www.tbtool.cn/download/index.html" id="36">
+    <title>图拉丁工具箱</title>
+  </bookmark>
+  <bookmark href="http://www.tbtool.cn/" id="37">
+    <title>图吧工具箱 - 最纯净的硬件工具箱</title>
+  </bookmark>
+  <bookmark href="https://duomihost.github.io/" id="38">
+    <title>DMhost | 熊猫云村</title>
+  </bookmark>
+  <bookmark href="https://potplayer.tv/" id="39">
+    <title>Global Potplayer</title>
+  </bookmark>
+  <bookmark href="https://www.microsoft.com/zh-cn/microsoft-365/onedrive/download" id="40">
+    <title>下载适用于电脑、Mac、Android 或 iOS 的 OneDrive 应用 – Microsoft OneDrive</title>
+  </bookmark>
+  <bookmark href="https://www.bitcomet.com/cn/archive#!" id="41">
+    <title>BitComet(比特彗星) - 历史版本</title>
+  </bookmark>
+  <bookmark href="https://www.dyjqd.com/" id="42">
+    <title>打印机驱动,打印机驱动下载 - 打印机驱动网</title>
+  </bookmark>
+  <bookmark href="https://go.itab.link/" id="43">
+    <title>iTab~</title>
+  </bookmark>
+  <bookmark href="https://zhuanlan.zhihu.com/p/534873207" id="44">
+    <title>Windows 11快捷键功能大全 28个Windows 11快捷键功能介绍 - 知乎</title>
+  </bookmark>
+  <bookmark href="https://listen1.github.io/listen1/" id="45">
+    <title>Listen 1 音乐播放器</title>
+  </bookmark>
+  <bookmark href="file:///D:/Downloads/Info.html" id="46">
+    <title>黑苹果硬件检测--by 黑果阿飞</title>
+  </bookmark>
+  <bookmark href="https://haconln.com/cgi/index/jc" id="47">
+    <title>飞哥数码--黑果在线--黑果阿飞</title>
+  </bookmark>
+  <bookmark href="https://www.znds.com/tv-1117056-1-1.html" id="48">
+    <title>【合集】魔百和M301H刷机刷机、固件、教程汇总！_中国移动魔百盒_ZNDS</title>
+  </bookmark>
+  <bookmark href="https://www.znds.com/tv-1205303-1-1.html" id="49">
+    <title>2021最新魔百和M301H（JL）海思310、300芯片合集免费下载！_ROM固件下载_ZNDS</title>
+  </bookmark>
+  <bookmark href="https://clash.guide/" id="50">
+    <title>Clash下载与教程</title>
+  </bookmark>
+  <bookmark href="https://bydjpe.winos.me/home/%E5%85%B3%E4%BA%8E" id="51">
+    <title>CNBYDJ PE - 关于</title>
+  </bookmark>
+  <bookmark href="https://otp.landian.vip/zh-cn/download.html" id="52">
+    <title>下载 | Office Tool Plus</title>
+  </bookmark>
+  <bookmark href="https://www.ventoy.net/cn/download.html" id="53">
+    <title>Download . Ventoy</title>
+  </bookmark>
+  <bookmark href="https://gocn.dg6.top:8443/#/register?code=oaxsAGo6" id="54">
+    <title>狗狗加速.com</title>
+  </bookmark>
+  <bookmark href="https://www.8uid.com/" id="55">
+    <title>精选优质软件下载，免费绿色软件推荐</title>
+  </bookmark>
+  <bookmark href="https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/?uc_biz_str=OPT%3ABACK_BTN_STYLE%401%7COPT%3ASAREA%401%7COPT%3AS_BAR_BG_FLOW%401%7COPT%3ATOOLBAR_STYLE%400%7COPT%3ATITLE_BAR_ENABLE%401%7COPT%3AW_ENTER_QUARK_LOADING%401%7COPT%3ADISABLE_RIGHT_BACK%401&amp;upstream_biz=toutiao_pc" id="56">
+    <title>Microsoft C++ 生成工具 - Visual Studio</title>
+  </bookmark>
+  <bookmark href="https://freemodel.dev/" id="57">
+    <title>FreeModel AI</title>
+  </bookmark>
+  <bookmark href="https://github.com/javaht/claude-desktop-zh-cn/tree/main" id="58">
+    <title>GitHub - javaht/claude-desktop-zh-cn: Claude Desktop Chinese Patch (macOS &amp; Windows) · GitHub</title>
+  </bookmark>
+  <bookmark href="https://ccswitch.io/zh/" id="59">
+    <title>CC Switch 官方网站 - AI 编程工具统一管理平台</title>
+  </bookmark>
+</folder>
+<folder id="8">
+  <title>下载</title>
+  <bookmark href="https://www.sshs.uno/?ref=www.90987086.xyz" id="60">
+    <title>ようこそ、紳士会所へ！</title>
+  </bookmark>
+  <bookmark href="https://anger.cesvgtvw.xyz/" id="61">
+    <title>51吃瓜 - 全网更新最快最全的吃瓜网</title>
+  </bookmark>
+  <bookmark href="https://2048.vip/thread.php?fid=57" id="62">
+    <title>聚友客栈 - 人人为我论坛</title>
+  </bookmark>
+  <bookmark href="https://www.40358257.xyz/sort/r18.html" id="63">
+    <title>分类 R-18 下的文章 - 绅士会所</title>
+  </bookmark>
+  <bookmark href="https://missav.live/dm223/en" id="64">
+    <title>MissAV | Watch HD JAV Online | Free &amp; High Quality AV</title>
+  </bookmark>
+</folder>
+<folder id="9">
+  <title>读研</title>
+  <bookmark href="https://yjsxk.buaa.edu.cn/yjsxkapp/sys/xsxkappbuaa/index.html" id="65">
+    <title>本研综合教务选课管理系统</title>
+  </bookmark>
+  <bookmark href="https://www.gradsmartedu.cn/learn/buaa08101A02619/buaa08101A02619/10140/video/910469?channel=i.area.manual_search" id="66">
+    <title>矩阵理论 - 北京航空航天大学 - 研究生教育</title>
+  </bookmark>
+  <bookmark href="https://spoc.buaa.edu.cn/spocnew/common/xsgrxx?initData_props=17137554038461a7aabad598ac13d21978245a2d4795eb" id="67">
+    <title>学生个人信息 - 智学北航</title>
+  </bookmark>
+  <bookmark href="https://spoc.buaa.edu.cn/spocnew/jxkj2" id="68">
+    <title>教学空间 - 智学北航</title>
+  </bookmark>
+  <bookmark href="https://blog.sakizuki.site/2024/10/05/%E7%9F%A9%E9%98%B5%E7%90%86%E8%AE%BA%E7%AC%94%E8%AE%B0/#mooc%E7%AC%AC%E4%B8%80%E7%AB%A0%E7%AD%94%E6%A1%88" id="69">
+    <title>矩阵理论笔记 - 凉宫秋月的文艺部</title>
+  </bookmark>
+  <bookmark href="https://www.bilibili.com/video/BV1dF8Fz7EsJ/?spm_id_from=333.337.search-card.all.click&amp;vd_source=f3f38eb36989d785c6da4eaa6d836808" id="70">
+    <title>过来人有话说：真不希望大家学吴恩达机器学习课程时还继续踩这些坑了..........-machinelearning/机器学习算法_哔哩哔哩_bilibili</title>
+  </bookmark>
+  <bookmark href="https://wap.4fb.cn/e/DownSys/play/?classid=16&amp;id=508&amp;pathid=5" id="71">
+    <title>第06集_无耻之徒(美版)第九季在线播放_4分贝分享网</title>
+  </bookmark>
+  <bookmark href="https://gsmis.e2.buaa.edu.cn/gsapp/sys/yjsemaphome/portal/index.do" id="72">
+    <title>研究生综合服务平台</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.bilibili.com/video/BV13T4y1L7T6?spm_id_from=333.788.videopod.episodes&amp;vd_source=f3f38eb36989d785c6da4eaa6d836808&amp;p=11" id="10">
+  <title>10 2字符 3字符 正线结 连折线 方线结_哔哩哔哩_bilibili</title>
+</bookmark>
+<bookmark href="https://pai.console.aliyun.com/?regionId=cn-beijing&amp;workspaceId=344397#/notebook/dsw-mn9d07xjqjz3vcaqct/config" id="73">
+  <title>交互式建模（DSW）</title>
+</bookmark>
+<bookmark href="https://gitee.com/cplusplus2023/cpp58th" id="74">
+  <title>cpp58th: 王道训练营Cpp58期代码仓库</title>
+</bookmark>
+<bookmark href="https://haowallpaper.com/?page=3&amp;sortType=6&amp;rows=9" id="75">
+  <title>免费4K高清壁纸-电脑背景图片-Mac壁纸网站「哲风壁纸」</title>
+</bookmark>
+<bookmark href="https://www.bizhihui.com/" id="76">
+  <title>免费壁纸_电脑壁纸_手机壁纸_4K壁纸_8K高清壁纸图片免费下载 -【壁纸汇】</title>
+</bookmark>
 </xbel>
