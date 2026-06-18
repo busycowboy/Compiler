@@ -3,21 +3,6 @@
 <xbel version="1.0">
 <!--- highestId :76: for Floccus bookmark sync browser extension -->
 
-<folder id="1">
-  <title>Mozilla Firefox</title>
-  <bookmark href="https://support.mozilla.org/products/firefox" id="2">
-    <title>Get Help</title>
-  </bookmark>
-  <bookmark href="https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize" id="3">
-    <title>Customize Firefox</title>
-  </bookmark>
-  <bookmark href="https://www.mozilla.org/contribute/" id="4">
-    <title>Get Involved</title>
-  </bookmark>
-  <bookmark href="https://www.mozilla.org/about/" id="5">
-    <title>About Us</title>
-  </bookmark>
-</folder>
 <folder id="6">
   <title>WOA</title>
   <bookmark href="https://github.com/Fndroid/clash_for_windows_pkg/releases" id="11">
@@ -231,4 +216,19 @@
 <bookmark href="https://www.bizhihui.com/" id="76">
   <title>免费壁纸_电脑壁纸_手机壁纸_4K壁纸_8K高清壁纸图片免费下载 -【壁纸汇】</title>
 </bookmark>
+<folder id="1">
+  <title>Mozilla Firefox</title>
+  <bookmark href="https://support.mozilla.org/products/firefox" id="2">
+    <title>Get Help</title>
+  </bookmark>
+  <bookmark href="https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize" id="3">
+    <title>Customize Firefox</title>
+  </bookmark>
+  <bookmark href="https://www.mozilla.org/contribute/" id="4">
+    <title>Get Involved</title>
+  </bookmark>
+  <bookmark href="https://www.mozilla.org/about/" id="5">
+    <title>About Us</title>
+  </bookmark>
+</folder>
 </xbel>
